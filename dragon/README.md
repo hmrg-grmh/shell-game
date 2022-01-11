@@ -1,3 +1,5 @@
+## 勇士与魔龙
+
 这个小功能是看到这个题目而写的：
 
 > A dragon has 100 heads. A knight can cut off 15, 17, 20, or 5 heads, respectively, with one blow of his sword. In each of these cases 24, 2, 14, or 17 new heads grow on its shoulders, respectively. If all heads are blown off, the dragon dies. Can the dragon ever die?
@@ -5,10 +7,12 @@
 
 翻译：
 
-> 一条恶龙有100个脑袋。骑士一剑下去，可以分别砍掉15、17、20或5个头。在每一种情况下，它的肩膀上分别长出24、2、14或17个新头。如果所有的脑袋都被吹掉了，恶龙就会死。它能被弄死吗？
+> 一条魔龙有100个脑袋。骑士一剑下去，可以分别砍掉15、17、20或5个脑袋。在每一种情况下，它的肩膀上分别长出24、2、14或17个新的脑袋。如果所有的脑袋都被吹掉了，魔龙就会死。魔龙能被弄死吗？
 > 
 
-其实挺简单，写好代码以后差不多就明白了： `100` 个脑袋，加来减去没法凑整。我认为是题目不完整，没说清头数目少于刀法的时候还能否用刀。
+🦐🦐🦐🦐
+
+其实挺简单……写好代码以后差不多就明白了： `100` 个脑袋，加来减去没法凑整。我认为是题目不完整，没说清头数目少于刀法的时候还能否用刀。
 
 题目来自[这里](https://brilliant.org/problems/dragons-100-heads/)，是看[这个](https://brilliant.org/wiki/invariant-principle-definition/)的时候看到的下面的一个有趣的练习。
 
